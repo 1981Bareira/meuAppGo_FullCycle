@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("FULL CYCLE ROCKS !!!")
+	fmt.Println("Code.education Rocks!")
 
 }
